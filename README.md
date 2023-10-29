@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rujayintichowdhury
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on leaur to coding
+- 💞️ I’m looking to collaborate on lear to coding
 - 📫 u can to reach me in Github 
 
 <!---
